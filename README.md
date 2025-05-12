@@ -80,7 +80,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [Hugging Face Models](https://huggingface.co/models)
 
 ### Aufgabe 5
-* [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_5/Assignment_PyTorch_Model_Zoo.ipynb)
+* [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_5/Assignment_PyTorch_Model_Zoo.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_5/Assignment_PyTorch_Model_Zoo_solution.ipynb)
 
 
 </details>
@@ -94,6 +94,21 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 
 ### Assignments
 * [Stock Price Prediction](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_6/Assignemnt_stock-price.ipynb)
+
+
+</details>
+
+<details>
+<summary> <H2>Woche 7 - Transformers </H2><BR></summary>
+
+
+### Lab
+* X [Transformers from Scratch in Pytorch](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/transformer_tutorial.ipynb)
+* [Using a pre-trained Vision transformer](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/pre_trained_vt.ipynb)
+* [fine tuning a pre-trained transformer](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/fine_tune_pre_trained_transformer.ipynb)
+
+### Assignments
+* [Transformer on CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/Transformer_CIFAR10.ipynb)
 
 
 </details>
