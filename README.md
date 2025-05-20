@@ -33,7 +33,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [Single Neuron](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_2/A_simple_Perceptron_in_NumPy.ipynb)
 
 ### Aufgabe 2
-* [Multi Class Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_2/Aufgabe_2_Multi_Class_Perceptrons.ipynb) 
+* [Multi Class Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_2/Aufgabe_2_Multi_Class_Perceptrons.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_2/Multi_Class_Perceptrons_solution.ipynb)
 
 </details>
 
@@ -65,7 +65,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [PyTorch AutoGrad](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/autograd_tutorial.ipynb)
 
 ### Aufgabe 4
-* [Assignment: Optimizing and Analyzing NN Training](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/Assignment_CIFAR10_MLP_optimization.ipynb) 
+* [Assignment: Optimizing and Analyzing NN Training](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/Assignment_CIFAR10_MLP_optimization.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/Assignment_CIFAR10_MLP_optimization_solution.ipynb)
 
 </details>
 <details>
@@ -103,7 +103,6 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 
 
 ### Lab
-* X [Transformers from Scratch in Pytorch](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/transformer_tutorial.ipynb)
 * [Using a pre-trained Vision transformer](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/pre_trained_vt.ipynb)
 * [fine tuning a pre-trained transformer](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/fine_tune_pre_trained_transformer.ipynb)
 
