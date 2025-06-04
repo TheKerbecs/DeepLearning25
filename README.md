@@ -120,7 +120,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [PyTorch AutoAugmentation](https://pytorch.org/vision/main/generated/torchvision.transforms.AutoAugment.html)
 
 ### Assignent
-* [AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_8/Assignment_AE_MNIST.ipynb) 
+* [AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_8/Assignment_AE_MNIST.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_8/Assignment_AE_MNIST_solution.ipynb) 
 </details>
 
 <details>
@@ -132,4 +132,15 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 
 ### Assignent
 * [GAN on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_9/assignment_mnistGAN.ipynb) 
+</details>
+
+<details>
+<summary> <H2>Woche 10 - Generative Models II </H2><BR></summary>
+
+#### Lab
+* [Stable Diffusion Demo](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb)
+
+### Assignment
+* [DDPM from scratch](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_10/DDPM.ipynb)
+
 </details>
